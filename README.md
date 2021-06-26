@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 I'm Niko,a Studnet | Product Success | Programming Beginner.
+😄 I'm Niko,a Student | Product Success | Programming Beginner.
 
 I love basketball 🏀, reading 📕, and playing games (Honor of Kings) 💻.
 
