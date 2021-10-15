@@ -10,7 +10,7 @@ And I want to be 💪.
 
 ### My side projects
 
-1. (Todo)![Jira System](https://github.com/Niko030303/jira_system)
+1. (Todo)[Jira System](https://github.com/Niko030303/jira_system)
 2. (Todo)
 
 ### Get in touch
