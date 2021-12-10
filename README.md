@@ -8,7 +8,7 @@ And I want to be 💪.
 
 ![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niko030303&show_icons=true&theme=tokyonight)
 
-### My side projects
+### My Projects
 
 1. [Jira System](https://github.com/Niko030303/jira_system)(Todo)
 2. [Vika Api Scene](https://github.com/Niko030303/vika-api-scene)(Todo)
