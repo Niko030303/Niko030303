@@ -11,7 +11,7 @@ And I want to be 💪.
 ### My side projects
 
 1. [Jira System](https://github.com/Niko030303/jira_system)(Todo)
-2. (Todo)
+2. [Vika Api Scene](https://github.com/Niko030303/vika-api-scene)(Todo)
 
 ### Get in touch
 
