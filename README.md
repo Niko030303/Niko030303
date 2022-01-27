@@ -11,7 +11,7 @@ And I want to be 💪.
 ### My Projects
 
 1. [vikadata-awesome](https://github.com/vikadata/awesome-vikadata)（ vikadata 开源周边）
-2. [Vika Api Scene](https://github.com/Niko030303/vika-api-scene) (vikadata 趣味场景)
+2. [vikadata-api-scene](https://github.com/Niko030303/vika-api-scene)（vikadata 趣味场景）
 3. [Jira System](https://github.com/Niko030303/jira_system)(Todo)
 
 
