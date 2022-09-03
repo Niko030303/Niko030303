@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-😄 I'm Niko,a Student | Product Success | Programming Beginner.
+😄 I'm Niko,an engineer from Zhuhai.
+
+I like using wonderful and interesting apps, such as Notion、Obsidian.
 
 I love basketball 🏀, reading 📕, and playing computer games💻.
 
