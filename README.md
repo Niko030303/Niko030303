@@ -10,12 +10,14 @@ I love basketball 🏀, reading 📕, and playing computer games💻.
 
 And I want to be 💪.
 
-![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niko030303&show_icons=true&theme=tokyonight)
+<img src="https://swg.notion.pet/s/bg-68b8b3cd632b12130034a210656c35cf" width="100%" />
 
 ### My Projects
 
 1. [vikadata-awesome](https://github.com/vikadata/awesome-vikadata)（ vikadata 开源周边）
 2. [vikadata-api-scene](https://github.com/Niko030303/vika-api-scene)（ vikadata 趣味场景）
+
+![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niko030303&show_icons=true&theme=tokyonight)
 
 ### Get in touch
 
