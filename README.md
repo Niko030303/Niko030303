@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://swg.notion.pet/s/3ebc85cb632b12aa002ec5c04c6494d8" width="25px"/>
 
 <img src="https://notion.pet/view/index.html?q=16db756f62b25e8807fd83b825fd52e2.6d85a2b9630c7fc71c4a6e40138a9b05" width="100%" />
 
