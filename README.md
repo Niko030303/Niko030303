@@ -1,12 +1,12 @@
 <img src="https://swg.notion.pet/s/3ebc85cb632b12aa002ec5c04c6494d8" width="25px"/>
 
-😄 I'm Niko,an engineer from Zhuhai.
+- 😄 Engineer from Zhuhai🇨🇳
+- ⚡️ Javascript/Python
+- 📝 Notion、Obsidian
+- 🔌 Notion Widgets Developer
+- 🏀 Basketball / Reading / Playing computer games
 
-I like using wonderful and interesting apps, such as Notion、Obsidian.
-
-I love basketball 🏀, reading 📕, and playing computer games💻.
-
-And I want to be 💪.
+Want to be 💪.
 
 <img src="https://swg.notion.pet/s/bg-68b8b3cd632b12130034a210656c35cf" width="100%" />
 
@@ -16,6 +16,8 @@ And I want to be 💪.
 2. [vikadata-api-scene](https://github.com/Niko030303/vika-api-scene)（ vikadata 趣味场景）
 
 ![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niko030303&show_icons=true&theme=tokyonight)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niko030303b&theme=dark&layout=compact)
 
 ### Get in touch
 
