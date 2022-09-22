@@ -1,8 +1,10 @@
 <img src="https://swg.notion.pet/s/3ebc85cb632b12aa002ec5c04c6494d8" width="25px"/>
 
+### Yoo, I'm Niko 👋
+
 - 😄 Engineer from Zhuhai🇨🇳
-- ⚡️ Javascript/Python
-- 📝 Notion、Obsidian
+- ⚡️ Javascript / Python
+- 📝 Notion / Obsidian
 - 🔌 Notion Widgets Developer
 - 🏀 Basketball / Reading / Playing computer games
 
@@ -17,7 +19,7 @@ Want to be 💪.
 
 ![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niko030303&show_icons=true&theme=tokyonight)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niko030303b&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niko030303&theme=dark&layout=compact)
 
 ### Get in touch
 
