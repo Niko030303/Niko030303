@@ -1,6 +1,11 @@
-<img src="https://swg.notion.pet/s/3ebc85cb632b12aa002ec5c04c6494d8" width="25px"/>
+## Yoo, I'm Niko 👋
 
-### Yoo, I'm Niko 👋
+<div align="center">
+<img src="https://swg.notion.pet/s/3ebc85cb632b12aa002ec5c04c6494d8" width="25px"/>
+<a href="https://notion.pet/#"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=NotionPet&color=FFFFFF&style=flat&logo=notion&logoColor=FFFFFF" alt="website"/></a>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+<a href="https://twitter.com/niko_030303" ><img src="https://img.shields.io/twitter/follow/niko_030303.svg?style=social" /> </a>
+</div>
 
 - 😄 Engineer from Zhuhai🇨🇳
 - ⚡️ Javascript / Python
