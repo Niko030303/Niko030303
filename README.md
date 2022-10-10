@@ -18,7 +18,7 @@ Want to be 💪.
 
 ### My Projects
 
-1. [vikadata-awesome](https://github.com/vikadata/awesome-vikadata)（ vikadata 开源周边）
+1. [vikadata-awesome](https://github.com/vikadata/awesome-vikadata)
 2. [dashboard](https://special-dashboard.netlify.app/)
 
 ![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niko030303&show_icons=true&theme=tokyonight)
