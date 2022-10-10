@@ -19,7 +19,7 @@ Want to be 💪.
 ### My Projects
 
 1. [vikadata-awesome](https://github.com/vikadata/awesome-vikadata)（ vikadata 开源周边）
-2. [vikadata-api-scene](https://github.com/Niko030303/vika-api-scene)（ vikadata 趣味场景）
+2. [dashboard](https://special-dashboard.netlify.app/)
 
 ![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niko030303&show_icons=true&theme=tokyonight)
 
