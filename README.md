@@ -8,7 +8,6 @@
 
 I am Niko Yang，i am a student
 
-- 😄 Engineer from Zhuhai🇨🇳
 - ⚡️ Javascript / Python
 - 📝 Notion / Obsidian
 - 🔌 Notion Widgets Developer
@@ -20,8 +19,7 @@ Want to be 💪.
 
 ### My Projects
 
-1. [vikadata-awesome](https://github.com/vikadata/awesome-vikadata)
-2. [dashboard](https://special-dashboard.netlify.app/)
+1. [dashboard](https://special-dashboard.netlify.app/)
 
 ![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niko030303&show_icons=true&theme=tokyonight)
 
