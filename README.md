@@ -12,8 +12,6 @@
 
 Want to be 💪.
 
-<img src="https://swg.notion.pet/s/bg-68b8b3cd632b12130034a210656c35cf" width="100%" />
-
 ### My Projects
 
 ![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niko030303&show_icons=true&theme=tokyonight)
