@@ -6,7 +6,7 @@
 <a href="https://github.com/Niko030303" ><img src="https://img.shields.io/github/followers/Niko030303.svg?label=follow&style=social" /> </a>
 </div>
 
-I am Niko，i am a student
+I am Niko Yang，i am a student
 
 - 😄 Engineer from Zhuhai🇨🇳
 - ⚡️ Javascript / Python
