@@ -5,7 +5,7 @@
 <a href="https://github.com/Niko030303" ><img src="https://img.shields.io/github/followers/Niko030303.svg?label=follow&style=social" /> </a>
 </div>
 
-- ⚡️ Javascript / Python
+- ⚡️ TypeScript / React / Python / Node.js
 - 📝 Notion / Obsidian
 - 🔌 Notion Widgets Developer
 - 🏀 Basketball / Reading / Playing computer games
@@ -14,6 +14,10 @@ Want to be 💪.
 
 ### My Projects
 
+[BBLOG - 仅凭一个链接聚合你的所有信息](https://app.bblog.cc/)
+
+[组件世界/WidgetStore - 在线定制个性化仪表盘]([https://app.bblog.cc/](https://cn.widgetstore.net/#/home))
+
 ![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niko030303&show_icons=true&theme=tokyonight)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niko030303&theme=dark&layout=compact)
@@ -21,6 +25,3 @@ Want to be 💪.
 ### Get in touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Niko030303)
-<!--
-个人主页
--->
