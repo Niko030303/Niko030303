@@ -14,9 +14,9 @@ Want to be 💪.
 
 ### My Projects
 
-[BBLOG - 仅凭一个链接聚合你的所有信息](https://app.bblog.cc/)
+- [BBLOG - 仅凭一个链接聚合你的所有信息](https://app.bblog.cc/)
 
-[组件世界/WidgetStore - 在线定制个性化仪表盘]([https://app.bblog.cc/](https://cn.widgetstore.net/#/home))
+- [组件世界/WidgetStore - 在线定制个性化仪表盘](https://cn.widgetstore.net/#/home)
 
 ![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niko030303&show_icons=true&theme=tokyonight)
 
