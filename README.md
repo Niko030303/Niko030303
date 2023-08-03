@@ -18,8 +18,6 @@ Want to be 💪.
 
 - [组件世界/WidgetStore - 在线定制个性化仪表盘](https://cn.widgetstore.net/#/home)
 
-![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niko030303&show_icons=true&theme=tokyonight)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niko030303&theme=dark&layout=compact)
 
 ### Get in touch
