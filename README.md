@@ -14,6 +14,10 @@ Want to be 💪.
 
 ### My Projects
 
+- [ChatAnything.AI - Chat anything, anywhere](https://www.chatanything.ai/)
+
+- [Krypto - Web3 Blockchain Application](https://krypto-oki.vercel.app/)
+
 - [BBLOG - 仅凭一个链接聚合你的所有信息](https://app.bblog.cc/)
 
 - [组件世界/WidgetStore - 在线定制个性化仪表盘](https://cn.widgetstore.net/#/home)
